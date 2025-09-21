@@ -22,8 +22,8 @@ title: L'Heure du Traitement
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
  "Témoignages anonymes sur l'hôpital psychiatrique, dénonçant abus et dysfonctionnements."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/lheuredutraitement" # the subpath of your site, e.g. /blog
+url: https://github.com/un-patient # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:
 rss: ""
