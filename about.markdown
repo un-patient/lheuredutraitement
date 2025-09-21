@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: A Propos
+permalink: /a-propos/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Bienvenue sur **L'heure du traitement**, un espace de témoignages anonymes sur l’hôpital psychiatrique.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Je partage ici mon expérience personnelle et des réflexions sur les pratiques hospitalières, avec pour objectif :  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- D’informer et d’alerter sur les abus et dysfonctionnements  
+- De donner la parole à ceux qui vivent ces expériences  
+- De créer un espace respectueux, sans stigmatisation  
 
+**Important :**  
+- Aucun nom de patient, de personnel ou d’établissement n’est cité.  
+- Le site est purement informatif et vise à sensibiliser le public.  
 
-[jekyll-organization]: https://github.com/jekyll
+Merci de votre visite et de votre respect pour ces témoignages.
